@@ -8,7 +8,7 @@ public class HelloProgram {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "this is my program";
+		return "this is my program 1";
 	}
 	
 }
